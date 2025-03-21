@@ -52,5 +52,3 @@ export default tseslint.config({
     ...reactDom.configs.recommended.rules,
   },
 })
-```
->>>>>>> 438f794 (Tp terminado)
