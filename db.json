@@ -1,0 +1,46 @@
+{
+  "tareas": [
+    {
+      "id": "1234",
+      "titulo": "Primer tarea",
+      "descripcion": "Primera descripcion",
+      "fechaLimite": "2025-03-16"
+    },
+    {
+      "id": "Thu Mar 20 2025",
+      "titulo": "Otra tarea",
+      "descripcion": "Otra descripcion",
+      "fechaLimite": "2025-01-11"
+    },
+    {
+      "id": "Thu Mar 20 2025",
+      "titulo": "Titulo de ejemplo",
+      "descripcion": "Descripcion de ejemplo",
+      "fechaLimite": "2025-03-20"
+    },
+    {
+      "id": "Thu Mar 20 2025",
+      "titulo": "Otra tarea",
+      "descripcion": "Otra descripcion",
+      "fechaLimite": "2025-01-11"
+    },
+    {
+      "id": "Thu Mar 20 2025",
+      "titulo": "Tituas",
+      "descripcion": "sfsaf",
+      "fechaLimite": "2025-03-04"
+    },
+    {
+      "id": "Thu Mar 20 2025",
+      "titulo": "Titulo de ejemplo editado",
+      "descripcion": "Descripcion de ejemplo editada",
+      "fechaLimite": "2025-03-27"
+    },
+    {
+      "id": "Thu Mar 20 2025",
+      "titulo": "Titulo de ejemplo editado",
+      "descripcion": "Descripcion de ejemplo editada",
+      "fechaLimite": "2025-03-27"
+    }
+  ]
+}

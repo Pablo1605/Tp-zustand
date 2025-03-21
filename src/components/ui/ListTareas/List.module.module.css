@@ -1,0 +1,53 @@
+.containerPrincipalListTareas {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    gap: 1rem;
+}
+
+.containerTittleAndButton {
+    display: flex;
+    justify-content: space-around;
+    gap: 1rem;
+    width: 70%;
+    color: #ffff;
+}
+
+.containerTittleAndButton h2 {
+    font-size: 3rem;
+}
+
+.containerTittleAndButton button {
+    font-size: 22px;
+    border-radius: 0.5rem;
+    width: 9rem;
+    height: 3.5rem;
+    background: rgb(255, 143, 46);
+    border: none;
+    color: rgb(26, 26, 26);
+}
+
+.containerTittleAndButton button:hover {
+    background-color: rgb(26, 26, 26);
+    color: rgb(255, 143, 46);
+    border: 2px solid rgb(255, 143, 46);
+    cursor: pointer;
+}
+
+.containerList {
+    margin-top: 1.3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    padding: 1rem;
+    background: rgb(172,79,0);
+    background: linear-gradient(0deg, rgba(172,79,0,1) 0%, rgba(255,149,59,1) 100%);
+    width: 70%;
+    min-height: 60vh;
+    max-height: 60vh;
+    overflow-y: auto;
+    border-radius: 0.4rem;
+}

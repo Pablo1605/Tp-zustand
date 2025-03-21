@@ -1,0 +1,17 @@
+.containerHeader {
+    width: 100vw;
+    height:11.5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(172,79,0);
+    background: linear-gradient(0deg, rgba(172,79,0,1) 0%, rgba(255,149,59,1) 100%);
+    margin-bottom: 1.3rem;
+}
+
+.containerTittleHeader {
+    font-family: "Cherry Cream Soda", system-ui;
+    color: #ffff;
+    margin-left: 4vw;
+    font-size: 3rem;
+}

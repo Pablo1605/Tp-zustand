@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(26, 26, 26);
+}
+
+.containerCard {
+    width: 100%;
+    background-color: #fff;
+    border-radius: 0.4rem;
+    padding: 0.4rem;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 10px 10px 58px -24px rgba(0,0,0,0.69);
+}
+
+.actionCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.actionCard button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 2rem;
+    width: 5rem;
+    border-radius: 0.4rem;
+    font-size: 1rem;
+}
+
+.actionCard button:hover {
+    cursor: pointer;
+}
+
+.actionCard button .deleteButton {
+    border-color: 2px solid red;
+}
